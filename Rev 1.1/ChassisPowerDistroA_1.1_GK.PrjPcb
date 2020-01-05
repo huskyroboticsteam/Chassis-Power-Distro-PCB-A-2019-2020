@@ -228,6 +228,10 @@ DocumentUniqueId=PUOZSBTO
 DocumentPath=..\Project Outputs for ChassisPowerDistroA_1.0_GK\Design Rule Check - ChassisPowerDistroA_PSoC_1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Design Rule Check - ChassisPowerDistroA_PSoC_1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
