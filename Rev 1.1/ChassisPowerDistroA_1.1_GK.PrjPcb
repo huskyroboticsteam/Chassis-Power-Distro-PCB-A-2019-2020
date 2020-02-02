@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for ChassisPowerDistroA_1.1_GK
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -242,7 +242,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\CAMtastic1.Cam
+DocumentPath=ChassisPowerDistroA_1.1_GK.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -259,7 +259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\CAMtastic2.Cam
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -276,7 +276,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=ChassisPowerDistroA_1.1_GK.OutJob
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -329,114 +329,198 @@ DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GBO
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GBP
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GBS
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GKO
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM1
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM4
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM5
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM7
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM13
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM14
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM15
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM16
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GP1
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GP2
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GPB
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GPT
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTL
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTO
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTP
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTS
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.LDP
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\NC Drill\ChassisPowerDistroA_PSoC_1.1_GK.LDP
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.REP
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.REP
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.RUL
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.RUL
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=..\Project Outputs for ChassisPowerDistroA_1.0_GK\Design Rule Check - ChassisPowerDistroA_PSoC_1.html
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument37]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\NC Drill\ChassisPowerDistroA_PSoC_1.1_GK.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.REP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.REP
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\ChassisPowerDistroA_PSoC_1.1_GK.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Gerber\ChassisPowerDistroA_PSoC_1.1_GK.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=..\Project Outputs for ChassisPowerDistroA_1.0_GK\Design Rule Check - ChassisPowerDistroA_PSoC_1.html
+DItemRevisionGUID=
+
+[GeneratedDocument58]
 DocumentPath=Project Outputs for ChassisPowerDistroA_1.1_GK\Design Rule Check - ChassisPowerDistroA_PSoC_1.html
 DItemRevisionGUID=
 
@@ -487,7 +571,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for ChassisPowerDistroA_1.1_GK
 
 [OutputGroup1]
 Name=Netlist Outputs
